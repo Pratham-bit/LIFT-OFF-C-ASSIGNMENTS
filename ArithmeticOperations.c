@@ -18,7 +18,7 @@ int main()
     printf("Multiplication of two numbers is %d\n",a*b);
     break;
     case 4:
-    printf("Division of two numbers is %d",a%b);
+    printf("Division of two numbers is %d",a/b);
     break;
     }
     return 0;
